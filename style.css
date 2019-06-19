@@ -82,9 +82,9 @@ nav {
   margin-top: 60px;
   color: white;
   font-size: 25px;
-  background-color: #0F1C2D;
+  background-color: #1b2838;
   height: 250px;
-  width: 600px;
+  width: 650px;
   list-style: none;
   text-transform: uppercase;
 }
@@ -99,15 +99,14 @@ nav {
   text-align: center;
 }
 
-#.box {
+.box {
   display: block;
-  margin: 25px;
-  padding: 55px;
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   align-items: center;
   border-radius: 5px;
-  background: #264163;
+  background: #1b2838;
+  #264163 #0F1C2D
 }
 
 footer {
