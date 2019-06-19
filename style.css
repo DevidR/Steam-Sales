@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1b2838;
+}
+
+header {
+  background-color: #171A21;
+  height: 100px;
+}
+
+.logo {
+
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 40px;
+}
+
+.nav-menu {
+  list-style: none;
+}
+.nav-menu li {
+  font-family: 'Oswald', sans-serif;
+  display: inline-block;
+  font-size: 18px;
+  text-transform: uppercase;
+
+}
+.nav-menu li a {
+  text-decoration: none;
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.nav-menu li a:hover {
+  color: #a4d007;
+}
+.nav-menu li a:active {
+  color: #a4d007;
+}
+
+.menu-align {
+  padding-top: 18px;
+}
+
+.body {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.next-sale {
+  font-family: 'Montserrat', sans-serif;
+  color: #60B5E7;
+  text-transform: uppercase;
+  font-size: 36px;
+}
+
+.summer {
+  font-family: 'Oswald', sans-serif;
+  color: #BAC102;
+  text-transform: uppercase;
+  font-size: 76px;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.timer-main {
+  font-family: 'Oswald', sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  color: white;
+  font-size: 25px;
+  background-color: #0F1C2D;
+  height: 250px;
+  width: 600px;
+  list-style: none;
+  text-transform: uppercase;
+}
+
+
+.timercolor {
+  display: block;
+  margin: 30px 50px;
+  color: #a4d007;
+  text-decoration: none;
+  font-size: 72px;
+  text-align: center;
+}
+
+#.box {
+  display: block;
+  margin: 25px;
+  padding: 55px;
+  width: 150px;
+  height: 150px;
+  align-items: center;
+  border-radius: 5px;
+  background: #264163;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: white;
+  text-transform: uppercase;
+  background-color: #121C29;
+  height: 50px;
+  padding: 16px 40px;
+
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+footer a:hover {
+  color: #a4d007;
+}
+
+#.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 40px;
+}
+
+.coming-soon {
+  margin-top: 360px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 72px;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+.coming-soon a {
+  color: white;
+  text-decoration: none;
+}
+.coming-soon a:hover {
+  color: #a4d007;
+}
