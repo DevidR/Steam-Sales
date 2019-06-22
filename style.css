@@ -153,3 +153,13 @@ footer a:hover {
 .coming-soon a:hover {
   color: #a4d007;
 }
+
+.left{
+  float:left;
+  width:50%;
+}
+.right{
+  float:right;
+  width:50%;
+  text-align:right;
+}
