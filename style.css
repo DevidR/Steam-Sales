@@ -68,6 +68,12 @@ nav {
   text-transform: uppercase;
   font-size: 76px;
 }
+.halloween {
+  font-family: 'Oswald', sans-serif;
+  color: orange;
+  text-transform: uppercase;
+  font-size: 76px;
+}
 
 .timer {
   display: flex;
